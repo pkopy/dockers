@@ -1,0 +1,4 @@
+docker run <image>
+docker run -p <source-port>:<docker-port> <image>
+docker build .
+docker build -t <imageName>:<version> .
